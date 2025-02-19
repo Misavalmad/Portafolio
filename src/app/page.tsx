@@ -82,7 +82,7 @@ export default function Home() {
           <a href="mailto:misavalmad@gmail.com" className="px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-500 text-lg">
             Correo Electrónico
           </a>
-          <a href="https://linkedin.com/in/misaelvalencia" className="px-6 py-3 bg-gray-700 rounded-lg hover:bg-gray-600 text-lg">
+          <a href="https://www.linkedin.com/in/misael-valencia-madrigal-444168248/" className="px-6 py-3 bg-gray-700 rounded-lg hover:bg-gray-600 text-lg">
             LinkedIn
           </a>
         </div>
