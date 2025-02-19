@@ -34,6 +34,11 @@ export default function Home() {
             <p className="mt-2 text-lg">Unreal Engine</p>
           </div>
           <div className="flex flex-col items-center">
+  <FaReact className="text-blue-400 text-6xl" />
+  <p className="mt-2 text-lg">React</p>
+</div>
+
+          <div className="flex flex-col items-center">
             <SiTailwindcss className="text-blue-400 text-6xl" />
             <p className="mt-2 text-lg">Tailwind CSS</p>
           </div>
