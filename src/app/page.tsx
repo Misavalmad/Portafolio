@@ -108,7 +108,7 @@ export default function Home() {
             <MdEmail className="text-xl" /> Correo Electrónico
           </a>
           <a 
-            href="https://linkedin.com/in/misaelvalencia" 
+            href="https://www.linkedin.com/in/misael-valencia-madrigal-444168248/" 
             className="px-6 py-3 bg-gray-700 rounded-lg hover:bg-gray-600 text-lg flex items-center gap-2"
           >
             <SiLinkedin className="text-xl" /> LinkedIn
