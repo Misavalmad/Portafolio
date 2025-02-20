@@ -12,24 +12,19 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 export const metadata = {
   title: "Misael Valencia | Portfolio",
   description: "Portfolio showcasing my skills, projects, and experience in software and game development.",
 };
 
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
+

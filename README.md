@@ -1,43 +1,43 @@
-# Portafolio
-Este es mi portafolio profesional desarrollado con **Next.js (React.js)** y **Tailwind CSS**.  
-El sitio presenta mis **habilidades, proyectos y formas de contacto** en un diseño minimalista y responsivo.
+# Portfolio  
+This is my professional portfolio, built with **Next.js (React.js)** and **Tailwind CSS**.  
+The site showcases my **skills, projects, and contact information** in a minimalist and responsive design.  
 
-🔗 **URL del Portafolio:** [misaelvalencia.vercel.app](https://misaelvalencia.vercel.app)
-
----
-
-## Tecnologías Utilizadas
-
-- [Next.js](https://nextjs.org/) - Framework para aplicaciones web modernas.
-- [Tailwind CSS](https://tailwindcss.com/) - Estilos rápidos y eficientes.
-- [Vercel](https://vercel.com/) - Hosting y despliegue continuo.
-- [React Icons](https://react-icons.github.io/react-icons/) - Iconos de tecnologías y redes sociales.
-- [GitHub](https://github.com/) - Control de versiones y repositorio del proyecto.
+🔗 **Portfolio URL:** [misaelvalencia.vercel.app](https://misaelvalencia.vercel.app)  
 
 ---
 
-## Características
+## Technologies Used  
 
-- Diseño **responsivo y minimalista**.
-- Sección de **habilidades** con iconos de tecnologías.
-- Sección de **proyectos destacados** con enlaces a GitHub.
-- **Despliegue automático** en Vercel con GitHub Actions.
+- [Next.js](https://nextjs.org/) - Modern web application framework.  
+- [Tailwind CSS](https://tailwindcss.com/) - Fast and efficient styling.  
+- [Vercel](https://vercel.com/) - Hosting and continuous deployment.  
+- [React Icons](https://react-icons.github.io/react-icons/) - Icons for technologies and social media.  
+- [GitHub](https://github.com/) - Version control and project repository.  
 
 ---
 
-## Instalación y Ejecución Local
+## Features  
 
-Para clonar y correr el proyecto en tu máquina local:
+- **Minimalist and responsive design.**  
+- **Skills section** with technology icons.  
+- **Highlighted projects** section with GitHub links.  
+- **Automatic deployment** on Vercel using GitHub Actions.  
+
+---
+
+## Installation & Local Execution  
+
+To clone and run this project on your local machine:  
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/Misavalmad/Portafolio.git
+# Clone the repository  
+git clone https://github.com/Misavalmad/Portafolio.git  
 
-# Entrar a la carpeta del proyecto
-cd Portafolio
+# Navigate to the project folder  
+cd Portafolio  
 
-# Instalar las dependencias
-npm install
+# Install dependencies  
+npm install  
 
-# Iniciar el servidor de desarrollo
-npm run dev
+# Start the development server  
+npm run dev  
