@@ -69,10 +69,10 @@ export default function Home() {
           <div className="bg-gray-800 p-6 rounded-lg shadow-lg text-center">
             <h3 className="text-2xl font-semibold text-white mb-2">Juego en Unreal Engine 5</h3>
             <p className="text-gray-300">
-              Desarrollo de un videojuego en Unreal Engine 5 utilizando Blueprints y C++.
+              Proximamente: Desarrollo de un videojuego en Unreal Engine 5 utilizando Blueprints y C++.
             </p>
             <a 
-              href="https://github.com/misaelvalencia/unreal-game" 
+              href="https://github.com/Misavalmad?tab=repositories" 
               target="_blank" 
               className="inline-block mt-4 px-4 py-2 bg-blue-600 rounded-lg hover:bg-blue-500"
             >
@@ -83,10 +83,10 @@ export default function Home() {
           <div className="bg-gray-800 p-6 rounded-lg shadow-lg text-center">
             <h3 className="text-2xl font-semibold text-white mb-2">Gestión de Base de Datos</h3>
             <p className="text-gray-300">
-              Diseño y desarrollo de una base de datos para gestionar clientes y ventas con MySQL.
+              Proximamente: Diseño y desarrollo de una base de datos para gestionar clientes y ventas con MySQL.
             </p>
             <a 
-              href="https://github.com/misaelvalencia/database-project" 
+              href="https://github.com/Misavalmad?tab=repositories" 
               target="_blank" 
               className="inline-block mt-4 px-4 py-2 bg-blue-600 rounded-lg hover:bg-blue-500"
             >
