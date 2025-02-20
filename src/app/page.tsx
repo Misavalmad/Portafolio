@@ -99,7 +99,7 @@ export default function Home() {
       {/* Sección de Contacto */}
       <section className="mt-16 w-full max-w-3xl bg-gray-800 p-8 rounded-lg shadow-lg text-center">
         <h2 className="text-3xl font-semibold text-white mb-4">Contacto</h2>
-        <p className="text-lg text-gray-300">Contáctame:</p>
+        
         <div className="mt-4 flex flex-col sm:flex-row justify-center gap-4">
           <a 
             href="mailto:misavalmad@gmail.com" 
