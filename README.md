@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portafolio de Misael Valencia
 
-## Getting Started
+Este es mi portafolio profesional desarrollado con **Next.js (React.js)** y **Tailwind CSS**.  
+El sitio presenta mis **habilidades, proyectos y formas de contacto** en un diseño minimalista y responsivo.
 
-First, run the development server:
+🔗 **URL del Portafolio:** [misaelvalencia.vercel.app](https://misaelvalencia.vercel.app)
+
+---
+
+## Tecnologías Utilizadas
+
+- [Next.js](https://nextjs.org/) - Framework para aplicaciones web modernas.
+- [Tailwind CSS](https://tailwindcss.com/) - Estilos rápidos y eficientes.
+- [Vercel](https://vercel.com/) - Hosting y despliegue continuo.
+- [React Icons](https://react-icons.github.io/react-icons/) - Iconos de tecnologías y redes sociales.
+- [GitHub](https://github.com/) - Control de versiones y repositorio del proyecto.
+
+---
+
+## Características
+
+- Diseño **responsivo y minimalista**.
+- Sección de **habilidades** con iconos de tecnologías.
+- Sección de **proyectos destacados** con enlaces a GitHub.
+- **Despliegue automático** en Vercel con GitHub Actions.
+
+---
+
+## Instalación y Ejecución Local
+
+Para clonar y correr el proyecto en tu máquina local:
 
 ```bash
+# Clonar el repositorio
+git clone https://github.com/Misavalmad/Portafolio.git
+
+# Entrar a la carpeta del proyecto
+cd Portafolio
+
+# Instalar las dependencias
+npm install
+
+# Iniciar el servidor de desarrollo
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
