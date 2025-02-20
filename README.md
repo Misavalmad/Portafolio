@@ -1,5 +1,4 @@
-# Portafolio de Misael Valencia
-
+# Portafolio
 Este es mi portafolio profesional desarrollado con **Next.js (React.js)** y **Tailwind CSS**.  
 El sitio presenta mis **habilidades, proyectos y formas de contacto** en un diseño minimalista y responsivo.
 
